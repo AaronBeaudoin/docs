@@ -363,6 +363,13 @@ lets you configure which parent & relational field values will be copied when yo
 
 - **Item Duplication Fields** — Check the field(s) to copy values for when duplicating an item.
 
+:::warning 
+
+The **Save as Copy** option is temporarily not working as expected, and will be fixed in a release in the near future.
+Thank you for your patience!
+
+:::
+
 ## Delete a Collection
 
 <video title="Delete a Collection" autoplay playsinline muted loop controls>
